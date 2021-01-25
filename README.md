@@ -2,6 +2,18 @@
 Alerts users in the SilverStripe CMS when multiple people are editing the same page.
 
 ### Maintainer Contact
+Wojciech Mruk
+<vojciechmruk (at) gmail (dot) com>
+
+## What's new?
+
+ModelAdmin support. The original code did not assume this scenario. The new version should handle it.
+
+
+
+# Origin version:
+
+### Maintainer Contact
 Julian Seidenberg
 <julian (at) silverstripe (dot) com>
 
